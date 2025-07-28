@@ -34,3 +34,6 @@ compiled_app_output
 trivy_report*
 compiled
 packages/cli/src/modules/my-feature
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
